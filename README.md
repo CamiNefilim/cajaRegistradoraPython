@@ -45,6 +45,7 @@ Para ejecutar la aplicación, usa el siguiente comando:
 
 ```bash
 python main.py
+```
 
 ## Autor
 
